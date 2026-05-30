@@ -1,0 +1,9 @@
+.edge-profile/
+.venv/
+.idea/
+output/
+output*/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.DS_Store
